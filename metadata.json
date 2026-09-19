@@ -1,0 +1,6 @@
+{
+  "name": "Residencial Jardins - Venda de Apartamentos",
+  "description": "Landing page de venda de apartamentos em localizações nobres de São Paulo: Tatuapé, Mooca e Vila Ema, com botões diretos de interesse para cada empreendimento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
